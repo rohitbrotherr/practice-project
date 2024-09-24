@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>landing page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="head">
+    <div class="logo">
+      <img src="images/pexels-karthik-reddy-130698-397913.jpg">
+    </div>
+    <div class="nav_tag">
+      <a href="#">Home</a>
+      <a href="#">Student</a>
+      <a href="#">Contact</a>
+      <a href="#">About</a>
+    </div>
+ </header>
+ <section class="first_section">
+  <div class="img">
+    <img src="images/pexels-brunoscramgnon-1337825.jpg">
+  </div>
+  <div class="offer">
+    <p><span class="off">50% OFF on All product</span></p>
+    <h3>Enjoy Your</h3>
+    <h3>Delicious Food</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <span class="off_button">Explore Now</span>
+</div>
+</section>
+   <section class="sub_contener">
+    <div class="Delicious">
+      <div class="log">
+        <img src="images/pexels-polina-tankilevitch-3872373.jpg">
+      </div>
+      <div class="heading">
+        <h2>Lorem, ipsum</h2>
+        <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+    </div>
+    <div class="Delicious"><div class="log">
+      <img src="images/pexels-polina-tankilevitch-3872373.jpg">
+    </div>
+    <div class="heading">
+      <h2>Lorem, ipsum</h2>
+      <p>Lorem ipsum dolor sit amet.</p>
+    </div></div>
+    <div class="Delicious">
+      <div class="log">
+      <img src="images/pexels-polina-tankilevitch-3872373.jpg">
+    </div>
+    <div class="heading">
+      <h2>Lorem, ipsum</h2>
+      <p>Lorem ipsum dolor sit amet.</p>
+    </div></div>
+   </section>
+   <hr>
+   <div class="menu_image">
+    <span class="menu_button">Our Menu</span>
+    <h3>Explore Our Menu</h3>
+<div>
+  <section class="grid_container">
+    <div class="grid_item">
+      <div class="div1">
+        <img src="images/pexels-ella-olsson-572949-1640777 (1).jpg">
+        <img id="two" src="images/pexels-iina-luoto-460132-1211887.jpg">
+        <img  id="three"src="images/pexels-karthik-reddy-130698-397913.jpg">
+
+      </div>
+      <div class="div2">
+        <img src="images/pexels-mali-64208.jpg">
+        <img id="five" src="images/pexels-pixabay-262918.jpg">
+        <img  id="six" src="images/pexels-polina-tankilevitch-3872373.jpg">
+
+      </div>
+    </div>
+    
+  </section>
+  <blockquote cite="www.pixabay.com">
+  </blockquote>
+  <!-- footer section -->
+  <footer>
+    <div class="com_logo">
+      <img src="images/pexels-karthik-reddy-130698-397913.jpg">
+    </div>
+    <div class="link">
+      <h2>Main link</h2>
+      <ul>
+        <li>Order Tracking</li>
+        <li>New Order</li>
+        <li>contact us</li>
+        <li>News & Blogs</li>
+      </ul>
+    </div>
+    <div class="link">
+      <h2>Support</h2>
+      <ul>
+        <li>About us</li>
+        <li>Privacy Policy</li>
+        <li>Terms & Condition</li>
+      </ul>
+    </div>
+    <div class="link">
+      <h2>Support</h2>
+      <input type="email" placeholder="Enter Your Email">
+      
+    </div>
+  </footer>
+
+</body>
+</html>
